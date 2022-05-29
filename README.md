@@ -8,7 +8,7 @@
 
 # 个人公众号
 
-感兴趣的也可以关注下([风起忘川](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2ODA5NDAzNA==&scene=124#wechat_redirect))
+* 感兴趣的也可以关注下([风起忘川](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzg2ODA5NDAzNA==&scene=124#wechat_redirect))
 
 
 
@@ -16,8 +16,8 @@
 
 # 个人微信
 
-请备注来意，否则大概率无法通过
-欢迎合作
+* 请备注来意，否则大概率无法通过
+* 欢迎合作
 
 * ![微信号](./images/个人微信.jpeg)
 
